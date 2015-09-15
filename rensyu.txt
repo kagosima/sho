@@ -1,0 +1,6 @@
+<!DOCTYPE HTML>
+ <HTML LANG="ja">
+   <head>
+   </head>
+</html>
+:
